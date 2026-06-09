@@ -14,10 +14,10 @@ Data Analyst Junior
 ## Proyectos
 
 ### Bank Marketing Analysis
-[Repositorio]
+https://github.com/milenalarach123-web/Bank-Marketing-Analysis.git
 
 ### Telecom Customer Churn Analysis
-[Repositorio]
+https://github.com/milenalarach123-web/Telecom-Customer-Churn-Analysis.git
 
 ### Retail Sales Analytics
-[Repositorio]
+[[Repositorio]](https://github.com/milenalarach123-web/Retail-Sales-Analytics)
